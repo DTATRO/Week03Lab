@@ -39,7 +39,7 @@ let alphabetString = 'abcdefghijklmnopqrstuvwxyz';
  * 
  * 
  * ↓ YOUR CODE HERE ↓ */
-
+console.log([alphabetString.split('')])
 
 
 
@@ -58,7 +58,8 @@ let alphabetArray = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
  * 
  * 
  * ↓ YOUR CODE HERE ↓ */
-
+alphabetArray.reverse();
+console.log(alphabetArray.join(''))
 
 
 
